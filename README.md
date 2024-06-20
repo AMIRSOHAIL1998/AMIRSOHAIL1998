@@ -25,8 +25,8 @@ Hello! I'm [Your Name], a passionate Full Stack Developer with a knack for creat
 
 ### 📫 Get In Touch
 
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email:** youremail@example.com
+- **GitHub:** [https://github.com/AMIRSOHAIL1998](https://github.com/AMIRSOHAIL1998)
+- **LinkedIn:** [https://www.linkedin.com/in/md-amir-sohail-86069b1aa](https://www.linkedin.com/in/md-amir-sohail-86069b1aa)
+- **Email:** [amir@betalectic.com](amir@betalectic.com)
 
 Feel free to check out my repositories, contribute to any projects, or just say hi. Let's build something amazing together!
