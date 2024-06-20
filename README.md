@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hello! I'm [Your Name], a passionate Full Stack Developer with a knack for creating seamless and efficient web applications. With a solid foundation in both front-end and back-end technologies, I enjoy building end-to-end solutions that solve real-world problems.
+Hello! I'm Md Amir Sohail, a passionate Full Stack Developer with a knack for creating seamless and efficient web applications. With a solid foundation in both front-end and back-end technologies, I enjoy building end-to-end solutions that solve real-world problems.
 
 ### 🌟 Skills
 
