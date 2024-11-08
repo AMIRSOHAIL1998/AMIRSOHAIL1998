@@ -22,9 +22,11 @@ Hello! I'm Md Amir Sohail, a passionate Full Stack Developer with a knack for cr
 - Microservices architecture
 - Advanced React patterns
 - Cloud-native development with AWS
+- Splitto (An app which simplifies the expense management and mobile and credit card payment)
 
 ### 📫 Get In Touch
 
+- **Portfolio:** [Visit Portfolio](https://amirsohail1998.github.io/portfolio/)
 - **GitHub:** [https://github.com/AMIRSOHAIL1998](https://github.com/AMIRSOHAIL1998)
 - **LinkedIn:** [https://www.linkedin.com/in/md-amir-sohail-86069b1aa](https://www.linkedin.com/in/md-amir-sohail-86069b1aa)
 - **Email:** [amir@betalectic.com](amir@betalectic.com)
