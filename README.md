@@ -1,14 +1,14 @@
 ## 👨‍💻 About Me
 
-Hello! I'm Md Amir Sohail, a passionate Full Stack Developer with a knack for creating seamless and efficient web applications. With a solid foundation in both front-end and back-end technologies, I enjoy building end-to-end solutions that solve real-world problems.
+Full-Stack Developer with extensive experience in software development, specializing in both front-end and back-end technologies. Successfully led and contributed to multiple high-impact projects for organizations like Betalectic IT Projects and Expert IT Zone. Proficient in HTML, CSS, JavaScript, Node.js, and other modern technologies. Strong problem-solving skills and proven ability to deliver scalable and efficient solutions. Holds a B.Sc. in Information Technology from A N College, Patna. Fluent in both Hindi and English, with a solid understanding of best practices in software development and project management.
 
 ### 🌟 Skills
 
-- **Front-End:** JavaScript, React, Angular, HTML5, CSS3, SASS
-- **Back-End:** Node.js, Express, Django, Ruby on Rails
+- **Front-End:** JavaScript, React, NextJs, HTML5, CSS3
+- **Back-End:** Node.js, Express
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, AWS, Firebase, Heroku
-- **Other Languages:** Python, Ruby, TypeScript
+- **Other Languages:** Python, Java, TypeScript
 
 ### 🚀 What I Do
 
